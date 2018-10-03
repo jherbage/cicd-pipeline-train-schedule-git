@@ -1,6 +1,6 @@
 # cicd-pipeline-train-schedule-git
 
-Just testing the clone commit.
+Just testing the clone commit. Another test. This is PROD now.
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
